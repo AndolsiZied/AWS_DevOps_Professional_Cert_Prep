@@ -56,7 +56,7 @@ Implement a robust AWS architecture that includes:
    - Add a target group pointing to the EC2 instances in the ASG.
 
 2. **Route 53**:
-   - Associate the DNS record (e.g., `myapp.internal`) with the ALB.
+   - Associate the DNS record (e.g., `cert-prep.internal`) with the ALB.
 
 ---
 
